@@ -1,14 +1,8 @@
 {
-"Cadastro_Animal" : {
-        "ID_Proprietario" : "string",
-        "Id_animal" : "int",
-		    "Data_Cadastro" : "date",
-        "Lote_Inicial" : "string",
-        "N_Brinco" : "int",
-        "Origem" : "string",
-		    "Fornecedor" : "string",
-        "Peso_Inicial" : "int",
-        "Sexo" : "string",
-        "Valor_Inicial" : "int",
-		   "Usuario_Cadastro" : "string"
-       }}
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  }
+}

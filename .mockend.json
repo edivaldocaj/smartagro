@@ -1,3 +1,4 @@
+{
 "Cadastro_Animal" : {
         "ID_Proprietario" : "string",
         "Id_animal" : "int",
@@ -10,4 +11,4 @@
         "Sexo" : "string",
         "Valor_Inicial" : "int",
 		   "Usuario_Cadastro" : "string"
-       }
+       }}
